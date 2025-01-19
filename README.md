@@ -93,6 +93,7 @@ print(response)
 
 ## File Structure
 In folder data we have the scraped data from the codeforces contests
+and in folder src we have the file for the chatbot
 ```
 .
 ├── vector_store.py      # Contains VectorStore class for managing FAISS index
