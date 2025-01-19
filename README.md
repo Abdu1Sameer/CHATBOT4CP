@@ -92,7 +92,7 @@ print(response)
 ```
 
 ## File Structure
-
+In folder data we have the scraped data from the codeforces contests
 ```
 .
 ├── vector_store.py      # Contains VectorStore class for managing FAISS index
@@ -102,7 +102,3 @@ print(response)
 ├── requirements.txt     # List of dependencies
 └── README.md            # This file
 ```
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
